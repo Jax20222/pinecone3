@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-/* Estilo del contenedor principal */
+/* Contenedor principal */
 .App {
   text-align: center;
   width: 100%;
@@ -21,7 +21,13 @@ body {
   background-color: #1e1e1e;
 }
 
-/* Estilo del formulario */
+/* Estilo del título */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Estilo del contenedor del formulario */
 .form-container {
   display: flex;
   flex-direction: column;
@@ -38,11 +44,16 @@ body {
   color: #ffffff;
 }
 
-/* Estilo de los botones */
-.submit-button,
-.chunk-button {
-  padding: 10px 20px;
+/* Grupo de botones para alinear en la misma línea */
+.button-group {
+  display: flex;
+  gap: 10px;
   margin-top: 10px;
+}
+
+/* Estilo del botón "Subir y convertir" */
+.submit-button {
+  padding: 10px 20px;
   border: none;
   border-radius: 5px;
   background-color: #4caf50;
@@ -51,14 +62,65 @@ body {
   transition: background-color 0.3s ease;
 }
 
-.submit-button:hover,
-.chunk-button:hover {
+.submit-button:hover {
   background-color: #45a049;
 }
+
+/* Estilo del botón "Nuevo archivo" */
+.clear-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #40e0d0; /* Aguamarina */
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.clear-button:hover {
+  background-color: #34c8ba;
+}
+
+/* Estilo para el botón "Fragmentar Texto" */
+.chunk-button {
+  margin-top: 20px; /* Agregar margen superior para separar los botones */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Estilo para el botón "Fragmentar Texto" inactivo */
+.chunk-button.inactive {
+  background-color: #444;
+  color: #bbb;
+  cursor: not-allowed;
+  transition: none;
+}
+
+/* Estilo para el botón "Fragmentar Texto" activo */
+.chunk-button.active {
+  background-color: #4caf50;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.chunk-button.active:hover {
+  background-color: #45a049;
+}
+
 
 /* Estilo del mensaje */
 .message {
   margin-top: 20px;
   font-size: 18px;
   color: #ffffff;
+}
+
+/* Estilo del mensaje de carga */
+.loading-message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #f0ad4e; /* Color naranja para indicar carga */
+  font-weight: bold;
 }

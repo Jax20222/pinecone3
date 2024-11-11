@@ -1,0 +1,366 @@
+MASTER: Ignacio Olmeda Ph.D
+STUDENT: Jaime A. Patiño A. M.D
+CAPÍTULO 1
+1. Introducción al Uso de la IA en la Salud
+Bien la inteligencia artificial (IA) podría definir el paso de una nueva era de la humanidad,
+por lo menos digitalmente hablando, y por supuesto abarca la medicina. Ya desde sus
+primeros usos y desarrollos la IA fue utilizada para simular procesos humanos, pero ahora
+los reflectores apuntan al manejo y proceso de grandes volúmenes de datos, lo cual ha
+mejorado notoriamente. Por supuesto que la salud se ve impactada positivamente y se
+perciben beneficios tanto en la atención del pcte como en procesos administrativos y de
+investigación (Jiang et al., 2017).
+Clasifiquemos entonces los usos de la AI en medicina en los siguientes compartimentos:
+imágenes, predicción de enfermedades, tratamiento personalizado, mejora de flujos
+administrativos y telemedicina. Dichos usos se han obligado a mejorar lo más rápido posible
+ante la necesidad de optimizar recursos médicos y mejorar la precisión de tratamientos
+(Mintz y Brodie, 2019). Tenemos por ejemplo muy buenos resultados en cardiología,
+mejorando el diagnóstico de enfermedades cardiovasculares mediante el uso de modelos
+predictivos (Krittanawong et al., 2017) y también tenemos buenas cifras en telemedicina la
+cual ha logrado incrementar de manera importante la adherencia al tratamiento en pacientes
+con enfermedades crónicas (Ellahham, 2020).
+El plato fuerte de la IA es su poder para procesar y analizar grandes volúmenes de datos en
+tiempo real. Por años, la medicina tradicional como la conocemos dependió de la
+experiencia humana y de la experticia del operador para la toma de decisiones, pero con la
+IA se pueden analizar montones de datos de manera precisa de manera rápida, facilitando
+diagnósticos certeros y tratamientos personalizados. Lo mejor de esto es que reduce costos
+al sistema de salud al optimizar los recursos disponibles. Y en lo que respecta a imágenes,
+la IA puede detectar patologías que pueden pasar por alto el ojo humano (Aloawis et al.,
+2023).
+Ahora hablemos de telemedicina, cuyo fuerte es proporcionar soluciones efectivas a
+distancia incluyendo la mejora en la adherencia al tratamiento. Con la IA, los pacientes
+pueden ser monitoreados de manera remota reduciendo la necesidad de visitas
+presenciales y aumentando la cobertura a zonas remotas y dispersas (Amann et al., 2020).
+Los chatbots son protagonistas en este aspecto. Pueden enviar recordatorios y generar
+retroalimentación positiva a los pacientes, impactando en su adherencia (Milne-Ives et al.,
+2020).
+La otra cara de la moneda: desafíos éticos y regulatorios. Obstáculos como la privacidad de
+los datos, seguridad de la información y transparencia en la toma de decisiones son temas
+que aún no se terminan de discutir (y de solucionar definitivamente). La IA tiene grandes
+cosas por ofrecer a la medicina (y ya lo está haciendo) pero su implementación DEBE
+hacerse con ética para lograr la confianza de los pacientes y la responsabilidad de los
+profesionales de la salud (Schwalbe y Wahl, 2020).
+Al unísono de otras disciplinas, la IA en salud avanza en análisis predictivo, procesamiento
+de lenguaje natural y sistemas de apoyo a decisiones. El futuro aún no está escrito en
+atención sanitaria y es deber “esperar” el desarrollo ético al mismo tiempo (Kataria y
+Ravindran, 2020).
+Fuentes Clave:
+1. Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., Wang, Y., Shen, H. and Wang, Y.
+(2017). Artificial intelligence in healthcare: past, present and future. Stroke and Vascular
+Neurology, 2(4), pp. 230-243. doi: 10.1136/svn-2017-000101.
+2. Mintz, Y. and Brodie, R. (2019). Introduction to artificial intelligence in medicine. Minimally
+Invasive Therapy & Allied Technologies, 28(2), pp. 73-81. doi:
+10.1080/13645706.2019.1575882.
+3. Krittanawong, C., Zhang, H., Wang, Z., Aydar, M., Kitai, T. (2017). Artificial Intelligence in
+Precision Cardiovascular Medicine. Journal of the American College of Cardiology, 69(21),
+pp. 2657-2664. doi: 10.1016/j.jacc.2017.03.571.
+4. Ellahham, S. (2020). Artificial Intelligence: The Future for Diabetes Care. The American
+Journal of Medicine, 133(8), pp. 895-900. doi: 10.1016/j.amjmed.2020.03.033.
+5. Aloawis, S., Alghamdi, S., Alsuhehany, N., Alqahtani, T., Alabdulrahman, A., Alsharey, S.,
+et al. (2023). Revolutionizing healthcare: the role of artificial intelligence in clinical practice.
+BMC Medical Education, 23(1), p. 689. doi: 10.1186/s12909-023-04698-z.
+6. Amann, J., Blasimme, A., Vayena, E., Frey, D. and Madai, V.I. (2020). Explainability for
+artificial intelligence in healthcare: a multidisciplinary perspective. BMC Medical Informatics
+and Decision Making, 20(1), p. 310. doi: 10.1186/s12911-020-01332-6.
+7. Milne-Ives, M., de Cock, C., Lim, E., Harper, M., Shehadeh, N., de Pennington, N., et al.
+(2020). The Effectiveness of Artificial Intelligence Conversational Agents in Health Care:
+Systematic Review. Journal of Medical Internet Research, 22(10), p. e20346. doi:
+10.2196/20346.
+8. Schwalbe, N., Wahl, B. (2020). Artificial intelligence and the future of global health. The
+Lancet, 395(10236), pp. 1579-1586. doi: 10.1016/S0140-6736(20)30226-9.
+9. Kataria, S., Ravindran, V. (2020). Electronic health records: a critical appraisal of
+strengths and limitations. Journal of the Royal College of Physicians of Edinburgh, 50(3), pp.
+262-268. doi: 10.4997/JRCPE.2020.309.
+2. Revisión del Estado del Arte
+La IA ha logrado hacerse paso como herramienta capaz de transformar el campo de la
+salud. Su área abarca desde el diagnóstico hasta el tratamiento personalizado. Varios
+estudios han avalado sus beneficios en áreas como la telemedicina, análisis predictivo y
+adherencia al tratamiento, entre otras. A continuación se revisan los estudios más recientes
+y relevantes que muestran el avance de la IA en la salud considerando tanto su impacto
+positivo como sus desafíos a la luz de su uso para mejorar la adherencia al tratamiento por
+parte de pacientes.
+2.1 Telemedicina y Adherencia al Tratamiento
+La telemedicina apoyada por IA ha demostrado mejorar significativamente la adherencia al
+tratamiento. Un chatbot que actúa como agente conversacional puede hacer recordatorios
+personalizados y análisis predictivos (al mismo tiempo) y ofrecerlo al médico en un formato
+de monitoreo constante. Un estudio reciente de Milne-Ives et al. (2020) revisa éste tema y
+encuentra la capacidad para mejorar el acceso a los servicios de salud y apoyar el cambio
+de comportamiento en los pacientes.
+A lo que adherencia al tratamiento se refiere, la IA ha sido crítica en predecir con mayor
+precisión el riesgo de abandono y hacer (o proponer) actitudes terapéuticas en tiempo real.
+En un ensayo clínico aleatorizado realizado por Krittanawong et al. (2017) mostró que la
+sinergia de telemedicina con IA aumentó significativamente la adherencia al tratamiento en
+pacientes con apnea obstructiva del sueño. Sin embargo, es la privacidad de los datos
+generados por el paciente lo que aún genera desafío y la razón es que la telemedicina
+implica la transmisión de información sensible a través de plataformas digitales vulnerables
+de ciberataques (Kataria y Ravindran, 2020). Aunque con políticas robustas, la regulación
+HIPAA (en USA) y el GDPR (Europa) sigue siendo insuficiente para cubrir todas las
+potenciales vulnerabilidades de la IA en telemedicina.
+2.2 Análisis Predictivo en Salud
+El análisis predictivo basado en machine learning (ML) y deep learning (DL) han sido trofeos
+de la IA, áreas de éxito cuantificado. Cuando un profesional de la salud recibe datos de
+predicción antes de que se manifiesten permiten actuar rápido y de manera preventiva. Esto
+se vió en un trabajo de Krittanawong et al. (2017) en donde se usaron modelos predictivos
+para mejorar la precisión a la hora de diagnosticar y tratar enfermedades cardiovasculares.
+Y este enfoque va más allá de la anticipación de las complicaciones de la no adherencia;
+permite optimizar los recursos médicos al señalar hacia los pacientes de mayor riesgo. Pero
+para que esto sea posible se requieren grandes volúmenes de datos para entrenar estos
+modelos, sin contar la posibilidad de sesgos si las muestras no son representativas de la
+población en cuestión. Schwalbe y Wahl (2020) encontraron que la IA puede verse
+seriamente limitada por la falta de datos de calidad y diversidad y por supuesto, esto llevará
+a predicciones inexactas (una manera cortés de decir predicciones falsas).
+2.3 Uso de Agentes Conversacionales
+Han sido ampliamente estudiados el uso de chatbots (agentes conversacionales) en el
+contexto de telemedicina y la relación médico paciente. Un estudio realizado por Koski y
+Murphy (2021) muestra y hace énfasis en la personalización de los tratamientos en tiempo
+real y ajustando respuestas según la interacción de los pacientes con el chatbot.
+Ahora, aquí viene un problema y es la “transparencia algorítmica”. La IA muchas veces es
+percibida, tanto por médicos como por pacientes como…una caja negra, en donde nadie
+tiene visibilidad sobre cómo se toman las decisiones, y esta desconfianza hace que los
+resultados que se obtienen mediante esta tecnología no tengan la eficacia esperada.
+Amann et al. (2020) sugiere que este “oscurantismo” debe ser desvelado para garantizar
+tanto la interpretabilidad como la confianza y uso responsable en la práctica clínica.
+2.4 Aplicaciones de la IA en Áreas Específicas
+La IA, con todos sus desafíos y dificultades, ha demostrado impacto significativo en áreas
+como la cardiología, endocrinología (principalmente diabetes) y la rehabilitación física.
+Krittanawong et al. (2017) por ejemplo, demostró cómo los algoritmos de la IA pueden
+mejorar los resultados en el tratamiento de enfermedades cardiovasculares mediante la
+personalización del tratamiento. En la rehabilitación física, la IA ha permitido hacer
+seguimiento más puntual y más fino de los pacientes y hacer ajustes más puros según las
+necesidades individuales.
+Los retos técnicos no son ajenos a la IA. Se requiere de hardware avanzado y una
+infraestructura tecnológica que no siempre está disponible en hospitales o clínicas, y más
+difícil aún en países en desarrollo. Además, aún se necesita más investigación para validar
+los resultados obtenidos por algoritmos en estudios clínicos amplios (Sumner et al., 2023).
+Fuentes clave:
+1. Milne-Ives, M., de Cock, C., Lim, E., Harper, M., Shehadeh, N., de Pennington, N., et al.
+(2020). The Effectiveness of Artificial Intelligence Conversational Agents in Health Care:
+Systematic Review. Journal of Medical Internet Research, 22(10), p. e20346. doi:
+10.2196/20346.
+2. Krittanawong, C., Zhang, H., Wang, Z., Aydar, M., Kitai, T. (2017). Artificial Intelligence in
+Precision Cardiovascular Medicine. Journal of the American College of Cardiology, 69(21),
+pp. 2657-2664. doi: 10.1016/j.jacc.2017.03.571.
+3. Schwalbe, N., Wahl, B. (2020). Artificial intelligence and the future of global health. The
+Lancet, 395(10236), pp. 1579-1586. doi: 10.1016/S0140-6736(20)30226-9.
+4. Koski, E., Murphy, J. (2021). AI in Healthcare. Studies in Health Technology and
+Informatics, 284, pp. 295-299. doi: 10.3233/SHTI210726.
+5. Sumner, J., Lim, H.W., Chong, L.S., Bundele, A., Mukhopadhyay, A., Kayambu, G. (2023).
+Artificial intelligence in physical rehabilitation: A systematic review. Artificial Intelligence in
+Medicine, 146, p. 102693. doi: 10.1016/j.artmed.2023.102693.
+6. Amann, J., Blasimme, A., Vayena, E., Frey, D. and Madai, V.I. (2020). Explainability for
+artificial intelligence in healthcare: a multidisciplinary perspective. BMC Medical Informatics
+and Decision Making, 20(1), p. 310. doi: 10.1186/s12911-020-01332-6.
+7. Kataria, S., Ravindran, V. (2020). Electronic health records: a critical appraisal of
+strengths and limitations. Journal of the Royal College of Physicians of Edinburgh, 50(3), pp.
+262-268. doi: 10.4997/JRCPE.2020.309.
+3. Gamificación y Adherencia al Tratamiento
+La gamificación, neologismo derivado de la palabra “game”, es una estrategia en ascenso
+dentro de la salud digital y utilizada en la motivación de pacientes y adherencia a
+tratamientos. No es un concepto nuevo. Sardi et al. (2017) propone que la gamificación ha
+sido utilizada en el contexto de pacientes crónicos y de rehabilitación. Lastimosamente, su
+estudio muestra que el enganchamiento tiende a ser a corto plazo y señala que se requiere
+más investigación para entender su falla a largo término.
+Berglund et al. (2022) identificó 5 principios de la gamificación en el contexto del cuidado
+cardiovascular. El uso de elementos conocidos en el ámbito gamer como recompensas,
+tablas de clasificación y sistema de puntos demostró mejorar la adherencia de los pacientes
+a su tratamiento.
+En el campo de la epilepsia, Rahim y Thomas (2017) investigan la gamificación para
+mejorar la adherencia de pacientes con ésta enfermedad con buenos resultados y
+concluyen que éste concepto tiene el potencial de transformar la adherencia del tratamiento
+en una experiencia atractiva y motivadora.
+Las enfermedades crónicas parecen ser el mejor campo de acción para la gamificación.
+Miller et al. (2016) encontraron como éste concepto ejecutado en aplicaciones de mHealth
+logró mejorar la autogestión de pacientes respecto a la adherencia de tratamiento.
+Conceptos como badges, niveles y sistema de puntos junto con desafíos diarios demostró
+ser una herramienta efectiva para fomentar la participación activa de los pacientes para
+tomar control de su propio cuidado.
+También la salud mental tiene su estudio y Hopia y Raitio (2016) en su estudio cualitativo
+encontraron que los elementos clásicos de juegos modernos como rankings aumenta el
+engagement, sin embargo, en pacientes con pocas habilidades digitales, su vínculo con la
+gamificación fue menor y su implementación no tan efectiva.
+Otro estudio notorio fue el de Theng et al. (2015) hicieron una estricta revisión sistemática
+sobre la gamificación en el contexto de la diabetes. Se encontró que la estrategia fue
+efectiva para aumentar la motivación a través de refuerzos positivos y recompensas
+extrínsecas.
+4. Machine Learning y Predicción de la Adherencia
+Como se expuso previamente, la gamificación existe desde antes del ascenso de la AI en la
+salud. Ahora con la presencia de algoritmos basados en Machine Learning (ML), se ha
+podido expandir éste concepto mediante el desarrollo de modelos predictivos para
+identificar potencial abandono en el tratamiento. Wu et al. (2020) desarrollaron un excelente
+modelo de ML que predice con alta precisión la caída en la adherencia en pacientes con
+diabetes tipo 2. Con un conjunto de 16 variables, su capacidad predictiva era de por lo
+menos 85%.
+Kharrazi et al. (2020) hicieron una comparación de los mejores modelos predictivos para
+aquel entonces con registros médicos electrónicos (EHR) y registros de seguros.
+Demostraron que el uso de índices de adherencia mejoró notoriamente la predicción de
+hospitalizaciones demostrando que el ML puede ayudar a personalizar las estrategias de
+intervención en pacientes de alto riesgo.
+Finalmente, Smith et al. (2023) realizaron una revisión y meta-análisis sobre el uso de
+modelos de ML y deep learning para predecir la progresión de enfermedades crónicas y
+encontraron que éstos modelos tuvieron alta utilidad para mejorar notoriamente la precisión
+de los resultados a largo término de los pacientes permitiendo no solo mejorar la
+oportunidad y la eficacia sino también el uso de recursos sanitarios.
+Fuentes clave:
+1. Sardi, L., Idri, A., & Fernández-Alemán, J. L. (2017). A systematic review of gamification
+in e-Health. Journal of Biomedical Informatics, 71, 31-48. doi: 10.1016/j.jbi.2017.05.011.
+2. Berglund, A., Jaarsma, T., Berglund, E., Strömberg, A., & Klompstra, L. (2022).
+Understanding and assessing gamification in digital healthcare interventions for patients with
+cardiovascular disease. European Journal of Cardiovascular Nursing, 21(6), 630-638. doi:
+10.1093/eurjcn/zvac048.
+3. Rahim, M. I. A., & Thomas, R. H. (2017). Gamification of medication adherence in
+epilepsy. Seizure, 52, 11-14. doi: 10.1016/j.seizure.2017.09.008.
+4. Miller, A. S., Cafazzo, J. A., & Seto, E. (2016). A game plan: Gamification design
+principles in mHealth applications for chronic disease management. Health Informatics
+Journal, 22(2), 184-193. doi: 10.1177/1460458214537511.
+5. Hopia, H., & Raitio, K. (2016). Gamification in healthcare: Perspectives of mental health
+service users and health professionals. Issues in Mental Health Nursing, 37(12), 894-902.
+doi: 10.1080/01612840.2016.1233595.
+6. Theng, Y.-L., Lee, J. W. Y., Patinadan, P. V., & Foo, S. S. B. (2015). The use of video
+games, gamification, and virtual environments in the self-management of diabetes: A
+systematic review of evidence. Games for Health Journal, 4(5), 352-361. doi:
+10.1089/g4h.2014.0114.
+7. Wu, X.-W., Yang, H.-B., Yuan, R., Long, E.-W., & Tong, R.-S. (2020). Predictive models of
+medication non-adherence risks of patients with T2D based on multiple machine learning
+algorithms. BMJ Open Diabetes Research & Care, 8(1), e001055. doi:
+10.1136/bmjdrc-2019-001055.
+8. Kharrazi, H., Ma, X., Chang, H.-Y., Richards, T. M., & Jung, C. (2020). Comparing the
+predictive effects of patient medication adherence indices in electronic health records and
+claims-based risk stratification models. Population Health Management, 23(5), 380-388. doi:
+10.1089/pop.2020.0306.
+9. Smith, L. A., Oakden-Rayner, L., Bird, A., Zeng, M., Son, M.-S., Mukherjee, S., & Palmer,
+L. J. (2023). Machine learning and deep learning predictive models for long-term prognosis
+in patients with chronic obstructive pulmonary disease: A systematic review and
+meta-analysis. The Lancet Digital Health, 5(7), e375-e385. doi:
+10.1016/S2589-7500(23)00177-2.
+10. Korb-Savoldelli, V., Tran, Y., Perrin, G., Touchard, J., Pastre, J., Borowiak, A., et al.
+(2023). Psychometric properties of a machine learning-based patient-reported outcome
+measure on medication adherence: Single-center, cross-sectional, observational study.
+Journal of Medical Internet Research, 25, e42384. doi: 10.2196/42384.
+5. Desafíos Actuales y Consideraciones Éticas
+El ascenso de la IA ofrece oportunidades nunca antes vistas en la atención médica las
+cuales no están libres de desafíos, siendo el número uno (dejando de lado las dificultades
+de hardware) la privacidad de los datos, seguido de la explicabilidad de los algoritmos y
+seguimos con los sesgos en los modelos predictivos y por si fuera poco, las implicaciones
+regulatorias.
+5.1 Privacidad y Seguridad de los Datos
+La gestión segura de los datos clínicos es en sí misma un gran desafío. Las violaciones de
+seguridad y ciberataques a los sistemas de salud están a la orden del día y han sido
+documentados en varias oportunidades.
+Un ejemplo es el ataque cibernético a una clínica en Finlandia en 2020, donde se
+comprometió información privada de pacientes psiquiátricos (Lewis, 2020). Estas amenazas
+obligan a establecer no solo medidas sino políticas que regulen el uso de la IA para la
+gestión de información confidencial.
+Existe la GDPR (Reglamento General de Protección de datos) en Europa y la HIPAA (Ley
+de Portabilidad y Responsabilidad de Seguros Medicos) en USA, sin embargo a medida que
+pase el tiempo y los sistemas de IA evolucionan, estas regulaciones deben actualizarse
+para evitar vacíos legales y lagunas que puedan afectar la privacidad de datos.
+5.2 Explicabilidad y Transparencia de los Algoritmos
+El camino de la aceptación de la IA de cara a la salud debe incluir el poder explicar sus
+algoritmos, entender por qué toma una o determinada decisión. El funcionamiento de las
+redes neuronales profundas, que es bastante complejo, es un obstáculo para hacer claro el
+cómo funcionan y porqué deciden lo que deciden. El explicar, en términos entendibles a la
+comunidad médica, tanto trabajadores como pacientes, es una parte obligatoria.
+Amann et al. (2020) discuten cómo la falta de transparencia en los modelos de IA puede
+generar desconfianza entre los profesionales de la salud quienes tienen una larga tradición
+académica gracias al control que se tiene sobre las decisiones clínicas. De aquí nace la
+rama de la IA llamada explicativa que pretende abordar este tema y cuya tarea
+principalmente es la interpretabilidad de los algoritmos permitiendo una aceptación y
+adopción efectiva en entornos médicos.
+Los entes regulatorios, como es el caso de la Comisión Europea, cada vez proponen las
+directrices específicas para que la IA sea cada vez más transparente y demandan que los
+desarrolladores tengan la responsabilidad de explicar cómo y porqué determinada app toma
+una decisión (European Commission, 2021), lo cual es crítico para implementar la ética.
+5.3 Sesgos en los Modelos de IA
+El sesgo es otro de los obstáculos en la gran carrera de la IA en la salud. Si los datos que
+se usan no representan a toda una población, puede pasar que las decisiones de los
+algoritmos beneficien a un grupo poblacional e incluso puedan afectar a otro. Obermeyer et
+al. (2019) demostró como un estudio basado en población blanca generó algoritmos de ML
+que al aplicarlos en población negra presentaban sesgos.
+Desde una mala recolección de datos hasta cómo se estructura un algoritmo, la posibilidad
+de generar sesgo no es algo para subestimar. Los desarrolladores de IA deben asegurar la
+diversidad y representatividad de los datos y hacer evaluaciones exhaustivas para identificar
+eventuales sesgos que aparezcan. La equidad en salud es algo demandante y la IA debe
+compartir ésta premisa.
+5.4 Implicaciones Regulatorias
+El tema de la regulación en la IA es algo en continuo desarrollo. Podría decirse que tomaron
+a las autoridades regulatorias por sorpresa, lo que obligó a acelerar las pautas sobre su
+uso. La Administración de Alimentos y Medicamentos FDA en USA ya inició su tarea de
+regular el hardware (dispositivos médicos) que incorporan IA y la Comisión Europea
+también está en esa misma labor para evitar el uso irresponsable.
+Pero con todo y esto, aún no se logran cubrir todos los aspectos críticos. Schwalbe y Wahl
+(2020) argumentan que todas las autoridades regulatorias del planeta aún están en
+términos de preparación ante los desafíos que la IA propone a la medicina. Los marcos
+necesarios no solo deben incluir seguridad y efectividad sino también ética, explicabilidad y
+transparencia.
+5.5 Acceso Desigual a la Tecnología
+Los dispositivos de IA para la salud no son baratos. Los hospitales del primer nivel pueden
+adoptar éstas tecnologías a buen ritmo, pero los hospitales de países en desarrollo no
+pueden decir lo mismo. Ésto debe tenerse en cuenta o la brecha para la salud entre países
+grandes y pequeños se hará muy marcada con el tema de la IA para la salud. El patrocinio
+por parte de grandes fabricantes e industria farmacéutica podría ayudar, pero también se
+requiere políticas globales para hacer del acceso a la IA en salud algo real (WHO, 2020).
+Fuentes clave:
+1. Lewis, D. (2020). Cyberattack on Finnish psychiatric clinic highlights health care's
+vulnerability. Reuters. Disponible en:
+https://www.reuters.com/article/us-finland-cyberattack-idUSKBN27H0GH.
+2. Amann, J., Blasimme, A., Vayena, E., Frey, D. and Madai, V.I. (2020). Explainability for
+artificial intelligence in healthcare: a multidisciplinary perspective. BMC Medical Informatics
+and Decision Making, 20(1), p. 310. doi: 10.1186/s12911-020-01332-6.
+3. Obermeyer, Z., Powers, B., Vogeli, C., Mullainathan, S. (2019). Dissecting racial bias in an
+algorithm used to manage the health of populations. Science, 366(6464), pp. 447-453. doi:
+10.1126/science.aax2342.
+4. European Commission (2021). Regulation on a European approach for Artificial
+Intelligence. Disponible en:
+https://ec.europa.eu/commission/presscorner/detail/en/ip_21_1682.
+5. Schwalbe, N., Wahl, B. (2020). Artificial intelligence and the future of global health. The
+Lancet, 395(10236), pp. 1579-1586. doi: 10.1016/S0140-6736(20)30226-9.
+6. WHO (2020). Global Strategy on Digital Health 2020-2025. World Health Organization.
+6. Conclusión del Capítulo
+Hemos revisado el potencial transformador que tiene la IA en la salud, pero con desafíos
+que demandan atención. Desde diagnósticos, tratamientos hasta adherencia a los planes de
+salud hacen parte de lo que ya se está haciendo gracias a su capacidad para procesar
+grandes volúmenes de datos y generar recomendaciones personalizadas. En interés, los
+chatbots han demostrado un impacto firme en la mejora del acceso a los servicios médicos
+(Milne-Ives et al., 2020; Krittanawong et al., 2017).
+Y así como sus bondades, también revisamos desafíos éticos, técnicos y regulatorios y no
+menos importante (por no decir que el más) es el de mejorar la transparencia o la
+explicabilidad de los algoritmos Amann et al. (2020). La llamada “falta de claridad en las
+decisiones algorítmicas reduce la confianza tanto de personal médico como de pacientes
+incluyendo la parte administrativa y aseguradoras (y gobierno). Este aspecto crucial
+requiere atención continua.
+El estudio de Obermeyer et al. (2019) señala la prevalencia de sesgos en los modelos
+predictivos y hace notorio como los algoritmos promueven las desigualdades en la atención
+médica al no haber sido entrenados con datos representativos de toda la población. Esto le
+es pertinente también a la ética en IA cuyos cimientos deben velar para evitar los sesgos en
+salud por su mala implementación. La FDA y la Comisión Europea están trabajando en ello,
+pero a la fecha aún falta por hacer. La reciente rama de IA explicativa promete ayudar
+bastante en este asunto y dar tranquilidad a los distintos actores de la salud al dar claridad
+sobre el porqué de las decisiones de los algoritmos ante un determinado escenario y evitar
+el efecto “caja negra”.
+Y por último a manera de énfasis, se concluye que la gamificación en salud, si bien no tiene
+muchos estudios, ha demostrado un impacto positivo a la hora de aumentar los índices de
+adherencia al tratamiento, sin embargo hay varios puntos de notoriedad: uno es que al
+parecer el engagement va disminuyendo con el tiempo (contrario a lo que sucede con los
+gamers en juegos tradicionales de consolas y PCs) y dos, pacientes con poco conocimiento
+técnico no suelen tener un vínculo fuerte con la gamificación. Hacen falta más
+investigaciones en este aspecto.
+Y a lo que respecta el uso de ML y DL los resultados son muy optimistas. No toda
+gamificación implica ML, pero aquella que lo incluye (o las apps que solo usan ML sin
+gamificación) muestra una mejoría dramática en los índices de adherencia o por lo menos,
+en la detección temprana de abandono. El objetivo final de esta tesis será explorar cómo la
+IA puede implementarse de manera efectiva en la práctica clínica, contribuyendo no solo a
+mejorar la calidad del tratamiento, sino también a reducir las desigualdades en el acceso a
+la atención médica.
+Fuentes clave:
+1. Milne-Ives, M., de Cock, C., Lim, E., Harper, M., Shehadeh, N., de Pennington, N., et al.
+(2020). The Effectiveness of Artificial Intelligence Conversational Agents in Health Care:
+Systematic Review. Journal of Medical Internet Research, 22(10), p. e20346. doi:
+10.2196/20346.
+2. Krittanawong, C., Zhang, H., Wang, Z., Aydar, M., Kitai, T. (2017). Artificial Intelligence in
+Precision Cardiovascular Medicine. Journal of the American College of Cardiology, 69(21),
+pp. 2657-2664. doi: 10.1016/j.jacc.2017.03.571.
+3. Amann, J., Blasimme, A., Vayena, E., Frey, D. and Madai, V.I. (2020). Explainability for
+artificial intelligence in healthcare: a multidisciplinary perspective. BMC Medical Informatics
+and Decision Making, 20(1), p. 310. doi: 10.1186/s12911-020-01332-6.
+4. Obermeyer, Z., Powers, B., Vogeli, C., Mullainathan, S. (2019). Dissecting racial bias in an
+algorithm used to manage the health of populations. Science, 366(6464), pp. 447-453. doi:
+10.1126/science.aax2342.
