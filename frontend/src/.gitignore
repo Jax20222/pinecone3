@@ -1,0 +1,54 @@
+# Entornos virtuales de Python
+env/
+new_env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Archivos de configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# Compilados
+*.pyc
+*.pyd
+*.pyo
+*.pdb
+
+# Ignorar archivos creados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Node.js y dependencias de frontend
+node_modules/
+
+# Directorios de construcción de frontend (por ejemplo, con Vite o Webpack)
+dist/
+build/
+
+# Archivos y directorios de editor y entorno de desarrollo
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Ignorar archivos de Git específicos de submódulos o subrepositorios no deseados
+backend/.git
+frontend/.git
+
+# Ignorar archivos generados temporalmente
+uploads/
+textos/
+fragmentos/
+output_fragmentos.txt
+output.txt

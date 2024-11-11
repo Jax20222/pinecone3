@@ -1,0 +1,64 @@
+/* Estilo global */
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Estilo del contenedor principal */
+.App {
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  background-color: #1e1e1e;
+}
+
+/* Estilo del formulario */
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Estilo del input de archivo */
+.file-input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2a2a2a;
+  color: #ffffff;
+}
+
+/* Estilo de los botones */
+.submit-button,
+.chunk-button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover,
+.chunk-button:hover {
+  background-color: #45a049;
+}
+
+/* Estilo del mensaje */
+.message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #ffffff;
+}

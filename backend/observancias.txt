@@ -1,0 +1,10 @@
+1. Obtener el PDF (idealmente de pocas paginas)
+2. Volverlo texto plano con lumber.py
+3. Chunkea el documento con splitter.py
+4. Crea un index en Pinecone con doindex.py
+5. Sube el archivo chunkeado al index con openailangch.py
+6. Crear el NameSpace con namespacing.py
+7. Haz el list & query con listquery.py
+8. Corre el chat con thechat.py (previamente se usó run_llm.py para 
+conectar con langsmith)
+SIGUE Define a few questions about the WonderVector5000
